@@ -10,6 +10,7 @@
 - Kaggle
 - Python
 - GoogleColab
+- PowerPoint
 
 # О работе:
 - Проведён иследовательский анализ данных (EDA)
